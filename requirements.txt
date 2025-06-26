@@ -1,4 +1,6 @@
 streamlit
 openai
 tiktoken
-wikipedia
+Wikipedia
+python-dotenv
+
