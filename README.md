@@ -1,16 +1,19 @@
-# Veritas – AI-Powered Truth Scanner 🕵️
+# Veritas: AI-Powered Truth Verification MVP
 
-Veritas is a lightweight web app that helps readers verify factual claims in real-time using AI. It highlights potentially misleading statements, tracks topics over time, and provides Wikipedia context.
+Veritas is an AI-driven tool designed to assess the accuracy of claims in real-time, provide live feedback, and track the evolution of topics with verified sources such as Wikipedia.
 
-## Features
-- ✅ Claim-by-claim truth verdicts (Verified, False, Needs Review)
-- 🔁 Live AI feedback while typing
-- 📌 Topic tracking with verdict evolution
-- 🌐 Wikipedia summaries per topic
-- 🔔 Alerts on verdict change
-- 🔁 “Re-check later” feature for evolving stories
+## 💡 Key Features
 
-## Tech Stack
-- Python + Streamlit
-- OpenAI (GPT-3.5)
-- Wikipedia API
+- 🔍 Real-time truth-checking
+- 🧠 Live feedback for short attention spans
+- 📈 Topic tracking with evolution alerts
+- 📚 Wikipedia integration for context
+- ✅ Lightweight, user-friendly interface
+
+## 🚀 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/Ndimofor/veritas-mvp.git
+   cd veritas-mvp
+
